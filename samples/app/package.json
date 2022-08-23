@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.16.4",
     "jsonwebtoken": "^8.4.0",
-    "log4js": "^3.0.6"
+    "log4js": "^6.4.0"
   }
 }
